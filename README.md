@@ -1,6 +1,16 @@
 # Web Technologies Lab Projects
 This repository contains the source code for the Web Technologies lab exercises.
 
+## Lab 7 - Laravel Validation CRUD
+
+- Improved validation safety with transaction-based stock/order updates and findOrFail on critical records.
+- Added StockAdjusted event for all stock-changing actions.
+- Added listeners to log stock history and low-stock alerts (stock.log, alerts.log).
+- Improved the User Interface by using clean and minimal approach
+
+<img width="1916" height="943" alt="image" src="https://github.com/user-attachments/assets/decf9795-c676-4710-88ca-5bdc4b22b5b8" />
+
+
 ## LAB 6 - Laravel CRUD 
 - Complete CRUD System - Laravel 11 application managing Customers, Products, Orders, and Order Details with full create, read, update, and delete functionality.
 
@@ -24,3 +34,6 @@ Video Demo : [Google Drive](https://drive.google.com/file/d/1zvA6yUo9y8J8vP6JEMV
 ![Login Page](Screenshots/lab_3_login.png)
 ### Dashboard
 ![Dashboard Page](Screenshots/lab_3_dashboard.png)
+
+## Lab 1 + 2 - E-Commerce Store 
+Repository : https://github.com/AnasAttaullah/Luxe-E-Commerce-Store
